@@ -364,8 +364,8 @@ Title.Parent = MainFrame
 Title.BackgroundTransparency = 1
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.Font = Enum.Font.GothamBold
-Title.Text = "CODEBY ELITE V59"
-Title.TextColor3 = Color3.fromRGB(150, 0, 255)
+Title.Text = "YOUNG SEBAS"
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 18
 
 CloseBtn.Name = "CloseBtn"
@@ -382,7 +382,7 @@ ScanBtn.Parent = MainFrame
 ScanBtn.BackgroundColor3 = Color3.fromRGB(150, 0, 200)
 ScanBtn.Position = UDim2.new(0.1, 0, 0.15, 0)
 ScanBtn.Size = UDim2.new(0.8, 0, 0.11, 0)
-ScanBtn.Text = "1. ESCANEAR Y GUARDAR"
+ScanBtn.Text = "ESCANEAR Y GUARDAR"
 ScanBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 Instance.new("UICorner", ScanBtn)
 
@@ -390,7 +390,7 @@ LoadBtn.Parent = MainFrame
 LoadBtn.BackgroundColor3 = Color3.fromRGB(200, 100, 0)
 LoadBtn.Position = UDim2.new(0.1, 0, 0.29, 0)
 LoadBtn.Size = UDim2.new(0.8, 0, 0.11, 0)
-LoadBtn.Text = "2. CARGAR JSON"
+LoadBtn.Text = "CARGAR JSON"
 LoadBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 Instance.new("UICorner", LoadBtn)
 
@@ -398,7 +398,7 @@ BuildBtn.Parent = MainFrame
 BuildBtn.BackgroundColor3 = Color3.fromRGB(0, 150, 200)
 BuildBtn.Position = UDim2.new(0.1, 0, 0.43, 0)
 BuildBtn.Size = UDim2.new(0.8, 0, 0.11, 0)
-BuildBtn.Text = "3. CONSTRUIR (Abajo->Arriba)"
+BuildBtn.Text = "CONSTRUIR (Abajo->Arriba)"
 BuildBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 Instance.new("UICorner", BuildBtn)
 
